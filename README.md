@@ -1,3 +1,5 @@
+## Fork of [react-before-after-slider-component](https://www.npmjs.com/package/react-before-after-slider-component) that works with React 18
+
 # React before after slider component
 Simple slider component for comparing images. Before and after.
 
