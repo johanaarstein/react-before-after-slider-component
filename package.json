@@ -53,5 +53,8 @@
     "compare",
     "comparison",
     "before and after"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
