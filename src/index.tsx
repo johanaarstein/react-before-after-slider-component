@@ -6,7 +6,7 @@ import React, {
     useState
 } from 'react'
 
-import './styles.scss'
+import './index.scss'
 
 export function isIntersectionObserverSupport() {
     if (typeof window === 'undefined') return false

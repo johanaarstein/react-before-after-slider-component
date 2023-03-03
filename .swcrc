@@ -1,0 +1,13 @@
+{
+  "env": {
+    "targets": "> 0.25%, not dead"
+  },
+  "jsc": {
+    "keepClassNames": true,
+    "parser": {
+      "syntax": "typescript",
+      "dynamicImport": true
+    },
+    "target": "es2020"
+  }
+}
